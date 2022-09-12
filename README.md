@@ -1,4 +1,4 @@
-Web URL : https://weather-geo-location.vercel.app/
+Web URL : https://weather.pmvnd.com/
 
 backend API URL: https://weather.pmv-app.workers.dev
 
